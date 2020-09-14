@@ -6,7 +6,5 @@ func TestSubtract(t *testing.T) {
 
 	t.Error("Expected x-2 ")
 
-	// func add(x int)  {
-
-	// }
+	
 }
